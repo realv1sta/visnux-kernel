@@ -9,7 +9,7 @@ kernel source tree and the committed `.config` that defines a Visnux kernel buil
 - **Configuration:** committed in [`.config`](.config) — the single source of truth
 - **Upstream:** vanilla `linux-7.2.15` from <https://kernel.org>, no out-of-tree patches
 - **Licence:** GPL-2.0 only — see [`COPYING`](COPYING)
-- **Project:** <https://visnux.org>
+- **Project:** [`visnux.org`](https://github.com/realv1sta/visnux)
 - **Packages:** [`realv1sta/ELOV`](https://github.com/realv1sta/ELOV)
 - **Installer / ISO:** [`realv1sta/visnux-testing`](https://github.com/realv1sta/visnux-testing)
 
