@@ -11,7 +11,7 @@ kernel source tree and the committed `.config` that defines a Visnux kernel buil
 - **Licence:** GPL-2.0 only — see [`COPYING`](COPYING)
 - **Project:** [`visnux.org`](https://github.com/realv1sta/visnux)
 - **Packages:** [`realv1sta/ELOV`](https://github.com/realv1sta/ELOV)
-- **Installer / ISO:** [`realv1sta/visnux-testing`](https://github.com/realv1sta/visnux-testing)
+- **Installer / ISO:** [`realv1sta/visnux`](https://github.com/realv1sta/visnux)
 
 > **Documentation scope**
 > This README and the files under [`docs/`](docs/) describe the kernel, its
